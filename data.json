@@ -1,0 +1,79 @@
+{
+    "heros": [
+        {
+            "name": "マルス",
+            "skills": [
+                {
+                    "name": "回り込み",
+                    "type": "assist",
+                    "rare": 4
+                },
+                {
+                    "name": "離脱の行路3",
+                    "type": "passive b",
+                    "rare": 5
+                },
+                {
+                    "name": "速さの紋章3",
+                    "type": "passive c",
+                    "rare": 4
+                },
+                {
+                    "name": "ファルシオン",
+                    "type": "weapon",
+                    "rare": 5
+                }
+            ]
+        },
+        {
+            "name": "エイリーク",
+            "skills": [
+                {
+                    "name": "引き込み",
+                    "type": "assist",
+                    "rare": 4
+                },
+                {
+                    "name": "速さの鼓舞3",
+                    "type": "passive c",
+                    "rare": 4
+                },
+                {
+                    "name": "回り込み",
+                    "type": "passive b",
+                    "rare": 4
+                },
+                {
+                    "name": "ジークリンデ",
+                    "type": "weapon",
+                    "rare": 5
+                }
+            ]
+        },
+        {
+            "name": "エフラム",
+            "skills": [
+                {
+                    "name": "守備封じ3",
+                    "type": "passive b",
+                    "rare": 5
+                },
+                {
+                    "name": "守備の威嚇3",
+                    "type": "passive c",
+                    "rare": 5
+                },
+                {
+                    "name": "月虹",
+                    "type": "special",
+                    "rare": 5
+                },
+                {
+                    "name": "ジークムント",
+                    "type": "weapon",
+                    "rare": 5
+                }
+            ]
+        }
+    ]
+}

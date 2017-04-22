@@ -1,0 +1,9 @@
+{
+  "extends": "vue",
+  "plugins": [
+    "html"
+  ],
+  "env": {
+    "jasmine": true
+  }
+}
